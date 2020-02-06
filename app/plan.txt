@@ -1,0 +1,14 @@
+Module:
+    Upload structure
+    Single upload
+    Multiple upload
+    Create folder
+    Rename folder
+Choose file/image from inner section and upload from section
+
+
+Steps:
+1. create static design
+2. link design
+3. Make database structure
+4. Code for functionality
