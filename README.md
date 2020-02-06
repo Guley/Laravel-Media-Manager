@@ -1,7 +1,15 @@
 # Laravel-Media-Manager
 Laravel Media Manager
 
+### Inital Setup ###
 
+ Step 1:  open terminal and enter command
+  
+    `composer update`
+ Step 2: Update .env file with your configurations
+ 
+ # Enjoy Coding #
+ 
 
 # ScreenShot
 
